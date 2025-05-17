@@ -6,7 +6,11 @@
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
-    "lint": "next lint"
+    "lint": "next lint",
+    "dev:migrate": "dotenv -e .env.dev -- npx prisma migrate dev --name init",
+    "dev:seed": "dotenv -e .env.dev -- npx prisma db seed",
+    "prod:migrate": "dotenv -e .env.prod -- npx prisma migrate deploy",
+    "prod:seed": "dotenv -e .env.prod -- npx prisma db seed"
   },
   "prisma": {
     "seed": "tsx prisma/seed.ts"
@@ -24,6 +28,7 @@
     "@types/node": "^20",
     "@types/react": "^19",
     "@types/react-dom": "^19",
+    "dotenv-cli": "^8.0.0",
     "eslint": "^9",
     "eslint-config-next": "15.3.2",
     "prisma": "^6.8.2",
