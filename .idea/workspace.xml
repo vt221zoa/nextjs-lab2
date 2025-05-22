@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="865d0bc3-c9ae-41f2-aa71-b008a69c14c0" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-    </list>
+    <list default="true" id="865d0bc3-c9ae-41f2-aa71-b008a69c14c0" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -39,7 +37,7 @@
   "keyToString": {
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "main",
+    "git-widget-placeholder": "cd",
     "last_opened_file_path": "D:/university/3 курс/2 семестр/next-js/lab2",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
@@ -72,7 +70,16 @@
       <option name="presentableId" value="Default" />
       <updated>1747497258063</updated>
       <workItem from="1747497259786" duration="37000" />
-      <workItem from="1747498093677" duration="14258000" />
+      <workItem from="1747498093677" duration="14313000" />
+      <workItem from="1747558108737" duration="529000" />
+      <workItem from="1747558644736" duration="159000" />
+      <workItem from="1747561158118" duration="301000" />
+      <workItem from="1747561542812" duration="18000" />
+      <workItem from="1747561869254" duration="12000" />
+      <workItem from="1747640405007" duration="317000" />
+      <workItem from="1747643833472" duration="3000" />
+      <workItem from="1747911699698" duration="42000" />
+      <workItem from="1747911756954" duration="637000" />
     </task>
     <servers />
   </component>
